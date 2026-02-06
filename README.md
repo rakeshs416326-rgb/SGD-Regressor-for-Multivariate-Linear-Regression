@@ -46,6 +46,8 @@ Y_test=scaler_Y.inverse_transform(Y_test)
 mse=mean_squared_error(Y_test,Y_pred)
 print("Mean Square Error:",mse)
 print("\nPredictions:\n",Y_pred[:5])
+devepoled by rakesh s
+reg no:25018957
 ```
 
 ## Output:
